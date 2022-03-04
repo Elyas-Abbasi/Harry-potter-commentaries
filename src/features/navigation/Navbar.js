@@ -5,7 +5,7 @@ import {Link} from "react-router-dom"
 
 const Navbar = () => {
     return(
-        <Paper sx={{position: "fixed", bottom: 100, left: 0, right: 0}} elevation={4}>
+        <Paper sx={{position: "fixed", bottom: 0, left: 0, right: 0}} elevation={4}>
             <BottomNavigation
                 showLabels
             >

@@ -6,7 +6,7 @@ const Appbar = () => {
             <AppBar position="fixed">
                 <Toolbar>
                     <Typography variant="h4" component="div" sx={{flexGrow: 1}}>
-                        Harry Potter and the Sorcerer's Stone Commentaires
+                        Harry Potter and the Sorcerer's Stone Critics
                     </Typography>
                 </Toolbar>
             </AppBar>
